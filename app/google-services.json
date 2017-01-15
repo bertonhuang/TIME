@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "290926072662",
+    "firebase_url": "https://time-d9759.firebaseio.com",
+    "project_id": "time-d9759",
+    "storage_bucket": "time-d9759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290926072662:android:d1e0b81814a1c326",
+        "android_client_info": {
+          "package_name": "com.example.berton.time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290926072662-q09a28bf1mb6bfovvjma8e9j2haqhsk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr8w4MGd2i84J2Vc_qHDb2thSgphckcyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
